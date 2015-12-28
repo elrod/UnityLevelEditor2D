@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: 79e19084d234e49cd81aef97a73705fb
+timeCreated: 1450787710
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: water_0
+    21300002: water_1
+    21300004: water_2
+    21300006: stone_0
+    21300008: grass_0
+    21300010: grass_2
+    21300012: stone_1
+    21300014: grass_1
+    21300016: grass_3
+    21300018: ground_0
+    21300020: ground_1
+    21300022: water_3
+    21300024: crack_0
+    21300026: crack_1
+    21300028: box
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 196
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: water_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 785
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 785
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_2
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 785
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 589
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grass_0
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 589
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grass_2
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 589
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 393
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grass_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 393
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: grass_3
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 393
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ground_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ground_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 197
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: water_3
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 197
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: crack_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: box
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
