@@ -71,6 +71,10 @@ public class LevelMakerEditor : Editor {
 		// SEPARATOR
 		GUILayout.Box("", new GUILayoutOption[] { GUILayout.ExpandWidth(true), GUILayout.Height(1) });
 		GUILayout.Label("WARNING AREA!!!");
+        if (GUILayout.Button("Rebuild Level"))
+        {
+            grid.RebuildLevel();
+        }
         if (GUILayout.Button("Reset Level"))
         {
             grid.ResetLevel();
