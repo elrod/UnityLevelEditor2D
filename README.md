@@ -8,7 +8,7 @@ quickly build 2d tile-based levels by clicking and dragging the mouse cursor.
 
 This tools work in scene view, so no object are instantiated at runtime.
 
-Features:
+**Features**:
 
 * Multiple tiles support.
 * Sequential tile loops (to spawn tiles following a specific pattern).
